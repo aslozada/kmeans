@@ -1,3 +1,6 @@
+!  k-means clustering
+!  use euclidean distance
+!  2019 alozada 
 program MC_KMeans
 
    implicit none
